@@ -1,1 +1,2 @@
 CSDT class trial text
+HELLO
