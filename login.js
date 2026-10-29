@@ -1,1 +1,1 @@
-const buttonLabel = "sign in";
+const buttonLabel = "Log In";
